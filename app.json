@@ -1,0 +1,16 @@
+{
+    "id": "4a7574f5-752c-49b4-b7d5-7540b1e047af",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "asterjoules",
+        "homepage": "asterjoules.com",
+        "support": "asterjoules.com"
+    },
+    "name": "preview-test",
+    "nameSlug": "preview-test",
+    "classFile": "PreviewTestApp.ts",
+    "description": "test preview",
+    "implements": []
+}
