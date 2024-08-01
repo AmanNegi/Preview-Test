@@ -45,7 +45,8 @@ class MyCommand implements ISlashCommand {
         http: IHttp,
         persis: IPersistence
     ): Promise<ISlashCommandPreview> {
-        // console.log(context.getArguments())
+        console.log(context.getArguments())
+        
         return {
             i18nTitle: "Preview Title",
             items: context.getArguments().map((arg) => {
